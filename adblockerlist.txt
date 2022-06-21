@@ -18,3 +18,4 @@ ytstatic.l.google.com
 api.segment.io
 segment.io
 https://5fd74.v.fwmrm.net/ad/
+https://5fd74.v.fwmrm.net
